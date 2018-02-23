@@ -1,8 +1,5 @@
 package com.orasi;
 
-import static org.junit.Assert.*;
-
-import com.hp.lft.report.internal.ReportEventInfo;
 import com.hp.lft.sdk.web.*;
 import org.junit.After;
 import org.junit.AfterClass;
@@ -12,8 +9,9 @@ import org.junit.Test;
 import com.hp.lft.sdk.*;
 import com.hp.lft.verifications.*;
 import com.hp.lft.report.*;
-
 import unittesting.*;
+
+
 
 public class LeanFtTest extends UnitTestClassBase {
 
